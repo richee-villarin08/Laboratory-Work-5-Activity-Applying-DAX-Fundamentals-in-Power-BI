@@ -1,4 +1,4 @@
-
+# Laboratory-Work5-Activity-PowerBI
 # Guided Questions (Laboratory Work 5)
 
 ## I. Foundational Concepts
